@@ -1,0 +1,25 @@
+section {
+  background-color: lightgray;
+}
+
+section h2 {
+  font-weight: bold;
+  color: green;
+}
+
+section li:first-child {
+  background: green;
+}
+
+.test1 {
+  text-decoration: line-through;
+}
+
+.hover:hover {
+  font-style: italic;
+  animation: 0.5ms ease;
+}
+
+.navbar {
+  position: relative;
+}
